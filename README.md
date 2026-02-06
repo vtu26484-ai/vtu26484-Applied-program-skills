@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/vtu26484-ai/vtu26484-Applied-program-skills/tree/master/0075-sort-colors) |
 | [0704-binary-search](https://github.com/vtu26484-ai/vtu26484-Applied-program-skills/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/vtu26484-ai/vtu26484-Applied-program-skills/tree/master/0735-asteroid-collision) |
 | [0946-validate-stack-sequences](https://github.com/vtu26484-ai/vtu26484-Applied-program-skills/tree/master/0946-validate-stack-sequences) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/vtu26484-ai/vtu26484-Applied-program-skills/tree/master/0075-sort-colors) |
 | [0977-squares-of-a-sorted-array](https://github.com/vtu26484-ai/vtu26484-Applied-program-skills/tree/master/0977-squares-of-a-sorted-array) |
 | [2418-sort-the-people](https://github.com/vtu26484-ai/vtu26484-Applied-program-skills/tree/master/2418-sort-the-people) |
 ## Stack
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/vtu26484-ai/vtu26484-Applied-program-skills/tree/master/0075-sort-colors) |
 | [0977-squares-of-a-sorted-array](https://github.com/vtu26484-ai/vtu26484-Applied-program-skills/tree/master/0977-squares-of-a-sorted-array) |
 ## Prefix Sum
 |  |
