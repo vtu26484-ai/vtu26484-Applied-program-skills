@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/vtu26484-ai/vtu26484-Applied-program-skills/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vtu26484-ai/vtu26484-Applied-program-skills/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0219-contains-duplicate-ii](https://github.com/vtu26484-ai/vtu26484-Applied-program-skills/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/vtu26484-ai/vtu26484-Applied-program-skills/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/vtu26484-ai/vtu26484-Applied-program-skills/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/vtu26484-ai/vtu26484-Applied-program-skills/tree/master/0704-binary-search) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/vtu26484-ai/vtu26484-Applied-program-skills/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vtu26484-ai/vtu26484-Applied-program-skills/tree/master/0160-intersection-of-two-linked-lists) |
+| [0219-contains-duplicate-ii](https://github.com/vtu26484-ai/vtu26484-Applied-program-skills/tree/master/0219-contains-duplicate-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/vtu26484-ai/vtu26484-Applied-program-skills/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/vtu26484-ai/vtu26484-Applied-program-skills/tree/master/0496-next-greater-element-i) |
 | [2418-sort-the-people](https://github.com/vtu26484-ai/vtu26484-Applied-program-skills/tree/master/2418-sort-the-people) |
@@ -137,4 +139,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/vtu26484-ai/vtu26484-Applied-program-skills/tree/master/0023-merge-k-sorted-lists) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/vtu26484-ai/vtu26484-Applied-program-skills/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
