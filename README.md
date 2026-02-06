@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0946-validate-stack-sequences](https://github.com/vtu26484-ai/vtu26484-Applied-program-skills/tree/master/0946-validate-stack-sequences) |
 | [2418-sort-the-people](https://github.com/vtu26484-ai/vtu26484-Applied-program-skills/tree/master/2418-sort-the-people) |
 ## Hash Table
 |  |
@@ -22,4 +23,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2418-sort-the-people](https://github.com/vtu26484-ai/vtu26484-Applied-program-skills/tree/master/2418-sort-the-people) |
+## Stack
+|  |
+| ------- |
+| [0946-validate-stack-sequences](https://github.com/vtu26484-ai/vtu26484-Applied-program-skills/tree/master/0946-validate-stack-sequences) |
+## Simulation
+|  |
+| ------- |
+| [0946-validate-stack-sequences](https://github.com/vtu26484-ai/vtu26484-Applied-program-skills/tree/master/0946-validate-stack-sequences) |
 <!---LeetCode Topics End-->
