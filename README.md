@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/vtu26484-ai/vtu26484-Applied-program-skills/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/vtu26484-ai/vtu26484-Applied-program-skills/tree/master/0160-intersection-of-two-linked-lists) |
 | [0387-first-unique-character-in-a-string](https://github.com/vtu26484-ai/vtu26484-Applied-program-skills/tree/master/0387-first-unique-character-in-a-string) |
 | [2418-sort-the-people](https://github.com/vtu26484-ai/vtu26484-Applied-program-skills/tree/master/2418-sort-the-people) |
 ## Sorting
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/vtu26484-ai/vtu26484-Applied-program-skills/tree/master/0075-sort-colors) |
 | [0142-linked-list-cycle-ii](https://github.com/vtu26484-ai/vtu26484-Applied-program-skills/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/vtu26484-ai/vtu26484-Applied-program-skills/tree/master/0160-intersection-of-two-linked-lists) |
 | [0977-squares-of-a-sorted-array](https://github.com/vtu26484-ai/vtu26484-Applied-program-skills/tree/master/0977-squares-of-a-sorted-array) |
 ## Prefix Sum
 |  |
@@ -92,4 +94,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/vtu26484-ai/vtu26484-Applied-program-skills/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/vtu26484-ai/vtu26484-Applied-program-skills/tree/master/0160-intersection-of-two-linked-lists) |
 <!---LeetCode Topics End-->
