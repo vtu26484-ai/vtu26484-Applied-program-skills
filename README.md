@@ -103,10 +103,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/vtu26484-ai/vtu26484-Applied-program-skills/tree/master/0025-reverse-nodes-in-k-group) |
 | [0142-linked-list-cycle-ii](https://github.com/vtu26484-ai/vtu26484-Applied-program-skills/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vtu26484-ai/vtu26484-Applied-program-skills/tree/master/0160-intersection-of-two-linked-lists) |
 ## Data Stream
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/vtu26484-ai/vtu26484-Applied-program-skills/tree/master/0901-online-stock-span) |
+## Recursion
+|  |
+| ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/vtu26484-ai/vtu26484-Applied-program-skills/tree/master/0025-reverse-nodes-in-k-group) |
 <!---LeetCode Topics End-->
