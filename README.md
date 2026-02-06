@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/vtu26484-ai/vtu26484-Applied-program-skills/tree/master/0075-sort-colors) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/vtu26484-ai/vtu26484-Applied-program-skills/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0704-binary-search](https://github.com/vtu26484-ai/vtu26484-Applied-program-skills/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/vtu26484-ai/vtu26484-Applied-program-skills/tree/master/0735-asteroid-collision) |
 | [0946-validate-stack-sequences](https://github.com/vtu26484-ai/vtu26484-Applied-program-skills/tree/master/0946-validate-stack-sequences) |
@@ -74,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/vtu26484-ai/vtu26484-Applied-program-skills/tree/master/0704-binary-search) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/vtu26484-ai/vtu26484-Applied-program-skills/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
