@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/vtu26484-ai/vtu26484-Applied-program-skills/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/vtu26484-ai/vtu26484-Applied-program-skills/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/vtu26484-ai/vtu26484-Applied-program-skills/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/vtu26484-ai/vtu26484-Applied-program-skills/tree/master/0901-online-stock-span) |
 | [0946-validate-stack-sequences](https://github.com/vtu26484-ai/vtu26484-Applied-program-skills/tree/master/0946-validate-stack-sequences) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/vtu26484-ai/vtu26484-Applied-program-skills/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/vtu26484-ai/vtu26484-Applied-program-skills/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -63,11 +64,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/vtu26484-ai/vtu26484-Applied-program-skills/tree/master/0155-min-stack) |
+| [0901-online-stock-span](https://github.com/vtu26484-ai/vtu26484-Applied-program-skills/tree/master/0901-online-stock-span) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/vtu26484-ai/vtu26484-Applied-program-skills/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/vtu26484-ai/vtu26484-Applied-program-skills/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/vtu26484-ai/vtu26484-Applied-program-skills/tree/master/0901-online-stock-span) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/vtu26484-ai/vtu26484-Applied-program-skills/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Two Pointers
 |  |
@@ -102,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/vtu26484-ai/vtu26484-Applied-program-skills/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vtu26484-ai/vtu26484-Applied-program-skills/tree/master/0160-intersection-of-two-linked-lists) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/vtu26484-ai/vtu26484-Applied-program-skills/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
