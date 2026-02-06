@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0704-binary-search](https://github.com/vtu26484-ai/vtu26484-Applied-program-skills/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/vtu26484-ai/vtu26484-Applied-program-skills/tree/master/0735-asteroid-collision) |
 | [0946-validate-stack-sequences](https://github.com/vtu26484-ai/vtu26484-Applied-program-skills/tree/master/0946-validate-stack-sequences) |
 | [0977-squares-of-a-sorted-array](https://github.com/vtu26484-ai/vtu26484-Applied-program-skills/tree/master/0977-squares-of-a-sorted-array) |
@@ -66,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/vtu26484-ai/vtu26484-Applied-program-skills/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/vtu26484-ai/vtu26484-Applied-program-skills/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
